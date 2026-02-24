@@ -7,3 +7,6 @@ Skills Learned:
 How to format a report on the mainframe.  
 How to write to a text file  
 File data importance  
+
+AUTHOR:  
+![Andrew Bartsch](https://github.com/AndrewBartsch42)
